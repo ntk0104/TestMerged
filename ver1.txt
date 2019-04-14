@@ -1,2 +1,4 @@
 ...
 Day la version vua ra mat
+Sua loi 1
+Sua loi 2
